@@ -1,0 +1,1 @@
+C:\Users\joaco\Desktop\work\Rust\macros\main\target\debug\main.exe: C:\Users\joaco\Desktop\work\Rust\macros\macros\src\lib.rs C:\Users\joaco\Desktop\work\Rust\macros\macros\src\parser.rs C:\Users\joaco\Desktop\work\Rust\macros\main\src\main.rs
