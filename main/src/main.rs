@@ -1,14 +1,14 @@
 use macros::r;
 fn main() {
-    r!(
-        library("ggplot2")
+    r! {
+            calculate <- 2 + 2.;
+            substraction <- 5 - 4;
+            multi <- 3. * 10;
+            division <- 10 / 23;
+    };
 
-        calculate <- 2+2;
-        data <- calculate + calculate;
-        function add(a, b) {
-            return a + b
-        }
-
-
-    )
+    println!("{}", calculate);
+    println!("{}", substraction);
+    println!("{}", multi);
+    println!("{}", division);
 }
